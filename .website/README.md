@@ -1,4 +1,7 @@
 ---
+genres:
+  - adventure
+  - puzzle
 post: https://web.archive.org/web/20191227214223/https://samirhodzic.github.io/2018/09/26/quest-of-tod-flow/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
